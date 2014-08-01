@@ -3,4 +3,4 @@
 
 echo "Removing $2 contents."
 rm -rfv $2/*
-rm -rfv $2/.*
+rm -rfv $2/.??*
